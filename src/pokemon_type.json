@@ -1,0 +1,21 @@
+{
+  "steel": "assets/types/acier.png",
+  "fighting":"assets/types/combat.png",
+  "dragon": "assets/types/dragon.png",
+  "fire": "assets/types/feu.png",
+  "flying": "assets/types/vol.png",
+  "water": "assets/types/eau.png",
+  "electric":"assets/types/electrik.png",
+  "fairy": "assets/types/fee.png",
+  "ice": "assets/types/glace.png",
+  "bug": "assets/types/insecte.png",
+  "normal": "assets/types/normal.png",
+  "grass":"assets/types/plante.png",
+  "poison": "assets/types/poison.png",
+  "psychic": "assets/types/psy.png",
+  "rock": "assets/types/roche.png",
+  "ground": "assets/types/sol.png",
+  "ghost": "assets/types/spectre.png",
+  "dark": "assets/types/tenebre.png"
+}
+
